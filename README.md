@@ -1,5 +1,32 @@
 # Réponses aux questions - TP2 : Spring MVC
 
+.
+├── pom.xml
+├── README.md
+└── src
+    └── main
+        ├── java
+        │   └── com
+        │       └── tp
+        │           ├── mvc
+        │           │   ├── FormController.java
+        │           │   ├── HomeController.java
+        │           │   └── MessageController.java
+        │           └── service
+        │               └── MessageService.java
+        ├── resources
+        └── webapp
+            ├── index.jsp
+            └── WEB-INF
+                ├── dispatcher-servlet.xml
+                ├── views
+                │   ├── form.jsp
+                │   ├── home.jsp
+                │   ├── result.jsp
+                │   └── vue.jsp
+                └── web.xml
+
+
 
 ## Partie 2 : Configuration
 
