@@ -1,0 +1,1 @@
+<h2>Message reçu : ${msg}</h2>
