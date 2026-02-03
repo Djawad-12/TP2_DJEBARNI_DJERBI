@@ -1,5 +1,5 @@
 # Réponses aux questions - TP2 : Spring MVC
-'''
+```text
 .
 ├── pom.xml
 ├── README.md
@@ -26,7 +26,7 @@
                 │   └── vue.jsp
                 └── web.xml
 
-'''
+```
 
 ## Partie 2 : Configuration
 
