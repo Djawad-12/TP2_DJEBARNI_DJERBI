@@ -28,6 +28,10 @@
 
 ```
 
+<img width="707" height="372" alt="Screenshot from 2026-02-03 16-20-45" src="https://github.com/user-attachments/assets/cb5039cb-e3dd-4c4d-89a2-dec0e3778651" />
+
+
+
 ## Partie 2 : Configuration
 
 **1. Quel est le rôle du DispatcherServlet ?**
